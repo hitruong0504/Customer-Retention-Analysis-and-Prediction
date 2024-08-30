@@ -3,6 +3,8 @@
 ## Overview
 This project analyzes bank customer data to uncover insights about customer behavior, preferences, and potential risk factors. The analysis aims to assist in decision-making processes regarding customer retention strategies, risk management, and overall business growth.
 
+The analysis was conducted on [Kaggle](https://www.kaggle.com/code/hitruonganh/customer-retention-analysis-and-prediction?scriptVersionId=194659751) using a Jupyter notebook, which can be accessed via the link provided below.
+
 ## Objective
 - **Understand** customer demographics and behavior.
 - **Identify** key factors influencing customer decisions, such as product subscription.
