@@ -1,32 +1,32 @@
 # Customer Retention Analysis and Prediction
 
-# Connect with Me
+## Connect with Me 💁‍♂️
+<p align="center">
+    <a href="https://www.linkedin.com/in/hitruong">
+        <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/56-linkedin-256.png" alt="LinkedIn" width="100" height="100"/>
+    </a>
+    <br>
+    <a href="mailto:hitruong.work@gmail.com">
+        <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-256.png" alt="LinkedIn" width="100" height="100"/>
+    </a>
+</p>
 
-<a href="https://www.linkedin.com/in/hitruong">
-    <img src="https://contentadvisory.net/wp-content/uploads/2024/01/LinkedIn_Logo.png" alt="LinkedIn" width="30" height="30"/>
-</a>
-
-<a href="mailto:hitruong.work@gmail.com">
-    <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" alt="LinkedIn" width="30" height="30"/>
-</a>
-
-
-## Overview ??
+## Overview 🎯
 This project analyzes bank customer data to uncover insights about customer behavior, preferences, and potential risk factors. The analysis aims to assist in decision-making processes regarding customer retention strategies, risk management, and overall business growth.
 
 The analysis was conducted on [Kaggle](https://www.kaggle.com/code/hitruonganh/customer-retention-analysis-and-prediction?scriptVersionId=194699157) using a Jupyter notebook, which can be accessed via the link provided below.
 
-## Objective ??
+## Objective 🔍
 - **Understand** customer demographics and behavior.
 - **Identify** key factors influencing customer decisions, such as product subscription.
 - **Analyze** risk factors that could lead to customer churn.
 - **Provide** actionable insights for improving customer retention and targeting.
 
-## Dataset Description ???
+## Dataset Description 🖼️
 
 The dataset contains information about bank clients and their interactions during a marketing campaign. The key features are as follows:
 
-### Bank Client Data ??
+### Bank Client Data 🏦
 - **Age**: Age of the client (numeric).
 - **Job**: Type of job (categorical: "admin.","unknown","unemployed","management","housemaid","entrepreneur","student", "blue-collar","self-employed","retired","technician","services").
 - **Marital**: Marital status (categorical: "married","divorced","single"; note: "divorced" means divorced or widowed).
@@ -57,7 +57,7 @@ The dataset contains information about bank clients and their interactions durin
 - **Matplotlib & Seaborn**: For data visualization.
 - **Kaggle**: For hosting the notebook and dataset.
 
-## Key Steps & Analysis ??
+## Key Steps & Analysis 🪄
 1. **Data Cleaning**: Handled missing values, outliers, and data formatting issues.
 2. **Exploratory Data Analysis (EDA)**: 
    - Analyzed the distribution of key features.
@@ -124,5 +124,5 @@ The dataset contains information about bank clients and their interactions durin
 ## Conclusion
 The analysis provided critical insights into customer behavior, which can be used to enhance customer engagement strategies, improve risk management, and ultimately drive business growth.
 
-## Contact
+## Contact 💁‍♂️
 For any questions or further discussion, please feel free to reach out via [LinkedIn](https://www.linkedin.com/in/hitruong) or [Email](mailto:hitruong.work@gmail.com).
