@@ -3,7 +3,7 @@
 ## Overview
 This project analyzes bank customer data to uncover insights about customer behavior, preferences, and potential risk factors. The analysis aims to assist in decision-making processes regarding customer retention strategies, risk management, and overall business growth.
 
-The analysis was conducted on [Kaggle](https://www.kaggle.com/code/hitruonganh/customer-retention-analysis-and-prediction?scriptVersionId=194659751) using a Jupyter notebook, which can be accessed via the link provided below.
+The analysis was conducted on [Kaggle](https://www.kaggle.com/code/hitruonganh/customer-retention-analysis-and-prediction?scriptVersionId=194699157) using a Jupyter notebook, which can be accessed via the link provided below.
 
 ## Objective
 - **Understand** customer demographics and behavior.
@@ -50,18 +50,60 @@ The dataset contains information about bank clients and their interactions durin
 1. **Data Cleaning**: Handled missing values, outliers, and data formatting issues.
 2. **Exploratory Data Analysis (EDA)**: 
    - Analyzed the distribution of key features.
+     <p align="center">
+        <img src="https://github.com/user-attachments/assets/03b6e047-b8e7-4d14-9bae-1172302b98e5" alt="Image Description" width="1000"/>
+        <br>
+        <i>Data Information</i>
+     </p>
+     <p align="center">
+        <img src="https://github.com/user-attachments/assets/d37439a9-ccf4-4733-9f3c-7e39f9ed056b" alt="Image Description" width="1000"/>
+        <br>
+        <i>Describe of Data</i>
+     </p>
    - Visualized relationships between different variables.
+     <p align="center">
+        <img src="https://github.com/user-attachments/assets/2d75cc7c-e6a9-40d3-8bd9-3fd93a57802a" alt="Image Description" width="1000"/>
+     </p>
+  
+     <p align="center">
+        <img src="https://github.com/user-attachments/assets/9de08a09-8024-41fe-904d-148729a690c1" alt="Image Description" width="1000"/>
+     </p>
+  
+     <p align="center">
+        <img src="https://github.com/user-attachments/assets/49e13396-95bb-47ed-9b6a-fa6c763d8525" alt="Image Description" width="1000"/>
+     </p>
+  
+     <p align="center">
+        <img src="https://github.com/user-attachments/assets/f1bb5820-bb4a-4bd7-a477-4dc295bee26d" alt="Image Description" width="1000"/>
+     </p>
    - Identified patterns and correlations.
 3. **Segmentation**:
    - Grouped customers based on demographics and behavior.
+     <p align="center">
+        <img src="https://github.com/user-attachments/assets/aa58a6b7-027c-4339-9b00-216bab733b80" alt="Image Description" width="1000"/>
+     </p>
+
+     <p align="center">
+        <img src="https://github.com/user-attachments/assets/2f623d7d-6aea-4e9c-8a7a-3be2d9544cb7" alt="Image Description" width="1000"/>
+     </p>
+
+     <p align="center">
+        <img src="https://github.com/user-attachments/assets/d15d8aa4-293c-4743-87d5-cf7f999cb727" alt="Image Description" width="1000"/>
+     </p>
    - Analyzed customer segments to understand preferences and risks.
 4. **Risk Analysis**:
    - Assessed risk factors for customer churn.
+     <p align="center">
+        <img src="https://github.com/user-attachments/assets/66e32adb-8d97-408b-ac3e-f22adba02bcf" alt="Image Description" width="1000"/>
+     </p>
    - Evaluated the impact of loans, default history, and campaign interactions.
 5. **Visualization**:
    - Created visualizations to present findings clearly.
    - Highlighted important trends and correlations.
 
+## Model Training and Evaluation
+- I will train various machine learning models to predict customer retention. I'll start with Logistics Regression, Decision Tree, Random Forest, and later I will compare its performance with other models. Cross-validation will be used to ensure the robustness of our results.
+- Please visit [Kaggle](https://www.kaggle.com/code/hitruonganh/customer-retention-analysis-and-prediction?scriptVersionId=194699157) for more detail.
 ## Key Insights
 - **Customer Age and Loan Preferences**: Older customers are more likely to have housing loans, while younger customers tend to have higher account balances.
 - **Impact of Campaigns**: Previous successful campaigns significantly influence customer responses in the current campaign.
